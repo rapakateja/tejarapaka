@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Teja Rapaka</title>
+	<link rel="stylesheet" type="text/css" href="Style.css">
+	<link href="https://fonts.googleapis.com/css?family=Dosis&display=swap" rel="stylesheet">
+
+</head>
+<body>
+	<header>
+		<div class="header_menu">
+			<div class="logo">
+				<img src="new signature white.png" alt="new copy">
+				
+			</div>
+			<div class="menu_list">
+				<ul>
+					<li> <a href="https://gmail.com/">Gmail</a> 
+					</li>
+					<li> <a href="https://www.hackerrank.com/">Hacker Rank</a> </li>
+					<li> <a href="#">Home</a> 
+					</li>
+					<li> <a href="https://www.instagram.com/teja_rapaka/">Instagram</a> </li>
+					<li> <a href="#">Contact</a> </li>
+					<li> <a href="logomomentswe.png">Logo</a> </li>
+					<li> <a href="ppp.JPG">Logo</a> </li>
+					<li> <a href="#">Contact</a> </li>
+					<li> <a href="photogallery.html">Photo gallery</a> </li>
+					
+					
+						
+				</ul>
+			</div>
+			<copyright teja vihari rapaka >
+		</div>
+		<div class="header_content">
+			<h2>RAPAKA TECHNICAL / PROGRAMMER / PHOTOGRAPHER</h2>
+			<h1>TEJA RAPAKA</h1>
+			<button><a href="https://www.google.com/">Google</a></button>
+			<button><a href="https://fonts.google.com/specimen/Dosis?selection.family=Dosis">Dosis Fonts</a></button>
+			
+		</div>
+		
+		
+	</header>
+</body>
+</html>
